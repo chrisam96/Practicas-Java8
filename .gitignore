@@ -1,0 +1,13 @@
+/.metadata/
+.classpath
+.project
+/.settings
+/bin/*
+*.class
+*prefs
+*.rar
+*.lst
+*/target/*
+*.jar
+*.MF
+*.properties
