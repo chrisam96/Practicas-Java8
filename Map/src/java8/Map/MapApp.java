@@ -11,6 +11,12 @@ public class MapApp {
 	 * Se cambiaron varios métodos para la manipulación 
 	 * de los Maps, apoyandosé de Lambdas
 	 */
+	
+	/*
+	 * NOTA:
+	 * FUNCTIONS: Expresión Lamda con un solo parametro de Entrada
+	 * BIFUNCTIONS: Expresión Lamda con 2 parametros de Entrada
+	 */
 	private Map<Integer, String> map;
 	
 	public void poblar() {
