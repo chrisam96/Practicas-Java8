@@ -30,9 +30,16 @@ public class FunctionsApp {
 	 * Parametro#1 = Tipo de dato que va a tener como ENTRADA
 	 * Parametro#2 = Tipo de dato de SALIDA que retorna la función
 	 * 
-	 * >Para ejecutar al objeto Function se hace a tráves del
+	 * >Para ejecutar al objeto FUNCTION se hace a tráves del
 	 * método apply()}.
 	 * 
+	 * >La estructura de una BIFUNCTION es la Siguiente
+	 * 
+	 * 		Function<[Parametro#1],[Parametro#2], [Parametro#3]>
+	 * 
+	 * Parametro#1 = Tipo de dato que va a tener como ENTRADA
+	 * Parametro#2 = Tipo de dato que va a tener como ENTRADA
+	 * Parametro#3 = Tipo de dato de SALIDA que retorna la función
 	 */
 	
 	private Function<String, String> convertirMayus = x -> x.toUpperCase(); 

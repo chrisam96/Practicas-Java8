@@ -93,7 +93,7 @@ public class DateAPIApp {
 		else {
 			/*
 			 * En JDK 1.8 se puede hacer a tráves de la clase INSTANT
-			 * para medir el tiempo. 
+			 * para medir el tiempo (se obtiene un punto en el tiempo) 
 			 * 
 			 * Para obtener la diferencia entre ellos se apoya
 			 * de la clase DURATION */
