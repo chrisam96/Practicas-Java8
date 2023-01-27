@@ -27,6 +27,7 @@ public class FunctionsApp {
 	 * 
 	 * 		Function<[Parametro#1],[Parametro#2]>
 	 * 
+	 * donde::
 	 * Parametro#1 = Tipo de dato que va a tener como ENTRADA
 	 * Parametro#2 = Tipo de dato de SALIDA que retorna la función
 	 * 
@@ -37,6 +38,7 @@ public class FunctionsApp {
 	 * 
 	 * 		Function<[Parametro#1],[Parametro#2], [Parametro#3]>
 	 * 
+	 * donde::
 	 * Parametro#1 = Tipo de dato que va a tener como ENTRADA
 	 * Parametro#2 = Tipo de dato que va a tener como ENTRADA
 	 * Parametro#3 = Tipo de dato de SALIDA que retorna la función
